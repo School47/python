@@ -1,2 +1,0 @@
-# python
-Основы языка Python
